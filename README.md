@@ -1,2 +1,3 @@
 # Calc
-Waat
+Just a Calculator
+
